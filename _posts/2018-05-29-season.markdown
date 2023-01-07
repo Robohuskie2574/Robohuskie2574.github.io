@@ -5,7 +5,7 @@ date:   2023-1-7 16:00:00 -0600
 image:  chargeuplogo.png
 tags:   news
 ---
-The 2023 season is announced. The theme is Charged Up.
+The 2023 season has been announced. The theme is Charged Up.
 The robot has to place miniature traffic cones and inflatable cubes in various places in the arena.
 For more information, go to the [FIRST's info page](https://www.firstinspires.org/robotics/frc/game-and-season)
 The manual is at:
