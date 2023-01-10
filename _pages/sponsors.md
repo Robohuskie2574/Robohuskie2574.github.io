@@ -18,7 +18,4 @@ PLACEHOLDER
 PLACEHOLDER
 
 ##### Want to Sponsor?
-#### About
-PLACEHOLDER
-#### Contact
-PLACEHOLDER
+
