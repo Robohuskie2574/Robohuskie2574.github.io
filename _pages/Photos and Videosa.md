@@ -8,8 +8,28 @@ image: placeholder-img.png
 
 ##### Archived Photos and Videos
 #### 2020
-
-
+<div style="display:grid;grid-gap:10px;grid-template-columns:repeat(3, 1fr)">
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\ohp-byt\1.jpg">
+<p>No Caption Added</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\ohp-byt\2.jpg">
+<p>No Caption Added</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\ohp-byt\3.jpg">
+<p>No Caption Added</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\ohp-byt\4.jpg">
+<p>No Caption Added</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\ohp-byt\5.jpg">
+<p>No Caption Added</p>
+</div>
+</div>
 
 
 #### 2017
