@@ -253,3 +253,27 @@ image: placeholder-img.png
 <p>No Caption Added</p>
 </div>
 </div>
+
+#### Unknown Date
+<div style="display:grid;grid-gap:10px;grid-template-columns:repeat(3, 1fr)">
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-left\2.jpg">
+<p>No Caption Added</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-left\3.jpg">
+<p>No Caption Added</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-left\4.jpg">
+<p>No Caption Added</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-left\5.jpg">
+<p>No Caption Added</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-left\1.jpg">
+<p>No Caption Added</p>
+</div>
+</div>
