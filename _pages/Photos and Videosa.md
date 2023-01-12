@@ -8,6 +8,7 @@ image: placeholder-img.png
 
 ##### Archived Photos and Videos
 #### 2020
+<!--OldSite Home Page(Below 2020 Season Events Text) -->
 <div style="display:grid;grid-gap:10px;grid-template-columns:repeat(3, 1fr)">
 <div style="aspect-ratio:.75">
 <img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\ohp-byt\1.jpg">
@@ -255,6 +256,7 @@ image: placeholder-img.png
 </div>
 
 #### Unknown Date
+<!-- Left size, old site archive page-->
 <div style="display:grid;grid-gap:10px;grid-template-columns:repeat(3, 1fr)">
 <div style="aspect-ratio:.75">
 <img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-left\2.jpg">
