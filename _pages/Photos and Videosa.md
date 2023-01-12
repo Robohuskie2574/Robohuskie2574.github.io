@@ -279,3 +279,170 @@ image: placeholder-img.png
 <p>No Caption Added</p>
 </div>
 </div>
+<!-- Right size, old site archive page-->
+<div style="display:grid;grid-gap:10px;grid-template-columns:repeat(3, 1fr)">
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\adam.jpg">
+<p>Adam</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\annie.jpg">
+<p>Annie</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\Audrey.jpg">
+<p>Audrey</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\Bollensen.jpg">
+<p>Bollensen</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\clark.jpg">
+<p>Clark</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\Connor.jpg">
+<p>Connor</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\Drew.jpg">
+<p>Drew</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\george.jpg">
+<p>George</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\Ian.jpg">
+<p>Ian</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\Jacob.jpg">
+<p>Jacob</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\Jeanne.jpg">
+<p>Jeanne</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\Josh.jpg">
+<p>Josh</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\Madison.jpg">
+<p>Madison</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\marcus.jpg">
+<p>Marcus</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\mekiah.jpg">
+<p>Mekiah</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\QC.jpg">
+<p>QC</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\sam.jpg">
+<p>Sam</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\1.jpg">
+<p>No Caption Added</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\2.jpg">
+<p>No Caption Added</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\3.jpg">
+<p>No Caption Added</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\4.jpg">
+<p>No Caption Added</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\5.jpg">
+<p>No Caption Added</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\6.jpg">
+<p>No Caption Added</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\7.jpg">
+<p>No Caption Added</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\8.jpg">
+<p>No Caption Added</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\9.jpg">
+<p>No Caption Added</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\10.jpg">
+<p>No Caption Added</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\11.jpg">
+<p>No Caption Added</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\12.jpg">
+<p>No Caption Added</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\13.jpg">
+<p>No Caption Added</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\14.jpg">
+<p>No Caption Added</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\15.jpg">
+<p>No Caption Added</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\16.jpg">
+<p>No Caption Added</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\17.jpg">
+<p>No Caption Added</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\18.jpg">
+<p>No Caption Added</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\19.jpg">
+<p>No Caption Added</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\20.jpg">
+<p>No Caption Added</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\21.jpg">
+<p>No Caption Added</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\22.jpg">
+<p>No Caption Added</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\23.jpg">
+<p>No Caption Added</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\oap-right\24.jpg">
+<p>No Caption Added</p>
+</div>
+</div>
