@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Photos and Videos/
+permalink: /PhotosVideos/
 image: placeholder-img.png
 title:  Photos And Videos
 ---

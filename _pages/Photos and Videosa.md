@@ -1,6 +1,8 @@
 ---
 layout: page
-permalink: /Photos and Videos-a/
+permalink: /PhotosVideos-a/
+title: Photos and Videos Archive
+hide: TRUE
 image: placeholder-img.png
 ---
 

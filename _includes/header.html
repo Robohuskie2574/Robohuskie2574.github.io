@@ -30,9 +30,11 @@
               {% for page in site.pages %}
                 {% unless page.name == 'tags.html' or page.name == '404.html' %}
               {% if page.title %}
+                {% unless page.hide %}
               <li class="nav__item">
                 <a href="{{ page.url | prepend: site.baseurl }}" class="nav__link"  style="padding:10px">{{ page.title }}</a>
               </li>
+                {% endunless %}
               {% endif %}
                 {% endunless %}
               {% endfor %}
