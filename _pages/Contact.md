@@ -2,7 +2,6 @@
 layout: page
 title: Contact
 permalink: /Contact/
-image: placeholder-img.png
 ---
 
 3303 33rd Ave. NE

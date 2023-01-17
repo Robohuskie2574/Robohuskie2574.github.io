@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: /Sponsori/
-image: placeholder-img.png
 title: Sponsor info and Guidelines
 hide: TRUE
 ---

@@ -2,7 +2,6 @@
 layout: page
 title: Schedule
 permalink: /Schedule/
-image: placeholder-img.png
 ---
 
 ###### Robo Schedule

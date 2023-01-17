@@ -3,7 +3,6 @@ layout: page
 permalink: /PhotosVideos-a/
 title: Photos and Videos Archive
 hide: TRUE
-image: placeholder-img.png
 ---
 
 ##### Archived Photos and Videos

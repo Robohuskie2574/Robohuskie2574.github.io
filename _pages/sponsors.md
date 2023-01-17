@@ -2,7 +2,6 @@
 layout: page
 title: Sponsors
 permalink: /Sponsors/
-image: placeholder-img.png
 ---
 If you are interested in sponsoring, there is more information at the bottom of the page.
 ##### List of Sponsors

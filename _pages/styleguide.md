@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: /styleguide/
-image: placeholder-img.png
 title: Style Guide
 hide: True
 ---
