@@ -6,8 +6,8 @@ permalink: /Schedule/
 
 ###### Robo Schedule
 ### Practice/Build
-Every PLACEHOLDER except days off school
+School days on Tuesday, Thursday, and Friday.
 ### Competitions
 ## PLACEHOLDER DATE
 Where: PLACEHOLDER
-PLACEHOLDER INFO
+March 1 to 5 2023
