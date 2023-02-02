@@ -8,6 +8,5 @@ permalink: /Schedule/
 ### Practice/Build
 School days on Tuesday, Thursday, and Friday.
 ### Competitions
-## PLACEHOLDER DATE
+## March 1 to 5 2023
 Where: PLACEHOLDER
-March 1 to 5 2023
