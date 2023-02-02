@@ -12,8 +12,6 @@ bundle exec jekyll serve
 
 TODO:
 
-Make contact page look nicer
-
 Fill in scedule
 
 Update sponsers page
