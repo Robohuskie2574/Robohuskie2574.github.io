@@ -7,8 +7,7 @@ If you are interested in sponsoring, there is more information at the bottom of 
 ##### List of Sponsors
 #### Diamond Membership
 ### PLACEHOLDER  
-![]({{site.baseurl}}/images/placeholder-img.png)
- 
+![]({{site.baseurl}}/images/placeholder-img.png) 
 Placeholder
 #### Platinum Membership
 PLACEHOLDER
