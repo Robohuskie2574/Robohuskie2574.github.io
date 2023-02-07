@@ -6,8 +6,11 @@ permalink: /Sponsors/
 If you are interested in sponsoring, there is more information at the bottom of the page.
 ##### List of Sponsors
 #### Diamond Membership
-PLACEHOLDER
-#### ​Platinum Membership
+<div>
+![]({{site.baseurl}}/images/placeholder-img.png)
+Placeholder
+</div>
+#### Platinum Membership
 PLACEHOLDER
 #### Gold Membership
 PLACEHOLDER
