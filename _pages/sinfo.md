@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Sponsori/
+permalink: /Sinfo/
 title: Sponsor info and Guidelines
 hide: TRUE
 ---
