@@ -17,4 +17,4 @@ PLACEHOLDER
 PLACEHOLDER
 
 ##### Interested in sponsoring?
-Thanks for being interested in sponsoring us! If you decide to sponsor us, you will get put on our website until the season is over. You may also receive additional benefits, like having your logo on our robot. For more information, Go to the [info page.]({{site.baseurl}}/sinfo/)
+Thanks for being interested in sponsoring us! Sponsors can get benefits such as a place on are website or your logo on out t-shirts or robot. For more information, go to the [info page.]({{site.baseurl}}/sinfo/)
