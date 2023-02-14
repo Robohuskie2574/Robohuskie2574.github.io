@@ -4,11 +4,10 @@ title: Contact
 permalink: /Contact/
 ---
 
-#### Mail
+# Mail
 3303 33rd Ave. NE
 
 St. Anthony, MN 55418
-
-#### Email
+# Email
 
 <medtronicrobohuskie2574@gmail.com>

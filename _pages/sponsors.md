@@ -4,11 +4,12 @@ title: Sponsors
 permalink: /Sponsors/
 ---
 If you are interested in sponsoring, there is more information at the bottom of the page.
-##### List of Sponsors
-#### Diamond Sponsor: Medtronic
+# List of Sponsors
+## Diamond Sponsor: Medtronic
 
 <img src="{{site.baseurl}}/images/logos/Medtronic_logo.svg" style="width:100%">
-#### Gold Sponsors
+
+## Gold Sponsors
 ### BLVD Autoworks
 
 <img src="{{site.baseurl}}/images/logos/BLVD_Logo_Main.png" style="width:100%">
@@ -16,7 +17,7 @@ If you are interested in sponsoring, there is more information at the bottom of 
 
 <img src="{{site.baseurl}}/images/logos/mindwalk-logo-600.png" style="width:100%">
 
-#### Silver Sponsors
+## Silver Sponsors
 ### Bove family
 
 ### Village Orthodontics

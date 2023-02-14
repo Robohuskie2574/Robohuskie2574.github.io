@@ -4,9 +4,9 @@ title: Schedule
 permalink: /Schedule/
 ---
 
-###### Robo Schedule
-### Practice/Build
+# Robo Schedule
+## Practice/Build
 School days on Tuesday, Thursday, and Friday.
-### Competitions
+# Competitions
 ## March 1 to 5 2023
 Where: PLACEHOLDER
