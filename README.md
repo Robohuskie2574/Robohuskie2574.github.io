@@ -10,8 +10,12 @@ instead of
 
 bundle exec jekyll serve
 
-TODO:
+TODO/IDEAS:
 
-Fill in scedule
+Fill in scedule FINISH Before any trips after duluth
 
-Update sponsers page
+Update sponser info page FINISH Before we look for new sponsers
+
+Add a team info page? (like list of members)? (might need to Combine FRC 2023 and scedule). We could also make the scedule part of it LOW PRIORITY
+
+Ways to convince new members to join? (videos, a list of reasons to join?) BEFORE 2023-2024 info meeting.
