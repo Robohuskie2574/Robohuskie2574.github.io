@@ -5,7 +5,7 @@ title: Sponsor info and Guidelines
 hide: TRUE
 ---
 # Sponsor info and Guidelines
-Thanks for being interested in sponsoring us! Sponsors can get benefits such as a place on are website or your logo on out t-shirts or robot.
+Thanks for being interested in sponsoring us! Sponsors can get benefits such as a place on are website or your logo on out t-shirts.
 
 ## Guidelines
 PLACEHOLDER
