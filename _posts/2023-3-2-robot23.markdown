@@ -1,0 +1,18 @@
+---
+layout:  post
+title:  "About Our 2023 Robot"
+date:   2023-3-2 12:00:00 -0600
+image:  2023/robot.jpg
+tags:   news
+---
+
+![]({{site.baseurl}}/images/2023/robot1.jpg)
+![]({{site.baseurl}}/images/2023/robot2.jpg)
+
+
+
+We have 2 sets of 3 wheels, ran by 2 brushless motors per side through a gearbox. Our robot is ran in tank drive.
+
+To move the cones and cubes, we have a arm moved by 2 linear actuators. On the there is a gripper mechanism. We use a lead screw to omen and close it, and it has gripper pads to help hold cones and cubes.
+
+Our robot weighs only 58 lbs (68 with the bumpers). 
