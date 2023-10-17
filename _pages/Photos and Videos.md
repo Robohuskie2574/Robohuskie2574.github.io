@@ -7,9 +7,15 @@ title:  Photos And Videos
 <div style="display:grid;grid-gap:10px;grid-template-columns:repeat(3, 1fr)">
 <div style="aspect-ratio:.75">
 <img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\2023\1.jpg">
-<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\2023\robot.jpg">
-<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\2023\robot1.jpg">
-<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\2023\robot2.jpg">
 <p>Secret Plans</p>
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\2023\robot.jpg">
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\2023\robot1.jpg">
+</div>
+<div style="aspect-ratio:.75">
+<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\2023\robot2.jpg">
 </div>
 </div>

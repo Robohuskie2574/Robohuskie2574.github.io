@@ -10,6 +10,11 @@ instead of
 
 bundle exec jekyll serve
 
+Before running in new codespace:
+
+rvm --default use 3.1.4
+bundle install
+
 TODO/IDEAS:
 
 Fill in scedule FINISH Before any trips after duluth

@@ -4,7 +4,7 @@ title: Contact
 permalink: /Contact/
 ---
 
-# Mail
+# Mail to school
 3303 33rd Ave. NE
 
 St. Anthony, MN 55418

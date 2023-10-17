@@ -26,4 +26,4 @@ If you are interested in sponsoring, there is more information at the bottom of 
 ### Jersey Mikes
 
 ##### Interested in sponsoring?
-Thanks for being interested in sponsoring us! Sponsors can get benefits such as a place on are website or your logo on out t-shirts. For more information, go to the [info page.]({{site.baseurl}}/sinfo/)
+Thanks for being interested in sponsoring us! For more information, go to the [info page.]({{site.baseurl}}/sinfo/)
