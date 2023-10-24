@@ -3,19 +3,14 @@ layout: page
 permalink: /PhotosVideos/
 title:  Photos And Videos
 ---
+
 [Link To Archive]({{site.baseurl}}/PhotosVideos-a)
-<div style="display:grid;grid-gap:10px;grid-template-columns:repeat(3, 1fr)">
-<div style="aspect-ratio:.75">
-<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\2023\1.jpg">
-<p>Secret Plans</p>
-</div>
-<div style="aspect-ratio:.75">
-<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\2023\robot.jpg">
-</div>
-<div style="aspect-ratio:.75">
-<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\2023\robot1.jpg">
-</div>
-<div style="aspect-ratio:.75">
-<img style="margin-top:0px;margin-bottom:0px" loading="lazy" src="{{site.baseurl}}\images\2023\robot2.jpg">
-</div>
+
+
+# 2022-2023
+<div style="display:grid;grid-template-columns:repeat(3, 1fr);">
+{% include imgcap.html image="\images\2023\1.jpg" text="Secret Plans" %}
+{% include imgcap.html image="\images\2023\robot.jpg" text="Photo from competition" %}
+{% include imgcap.html image="\images\2023\robot1.jpg" text="Photo from competition" %}
+{% include imgcap.html image="\images\2023\robot2.jpg" text="Photo from competition" %}
 </div>

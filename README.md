@@ -1,28 +1,33 @@
 Robohuskies Website github
 ======
-If you got here by mistake, the website is at (robohuskie.github.io)
-###Running Locally
+If you got here by mistake, the website is at (robohuskie.com)
+## Website Dev Stuff
+
+### Running Locally
 To run locally, run
 
-bundle exec jekyll serve --baseurl=""
+    bundle exec jekyll serve --baseurl=""
+or
 
-instead of
+    ./run.sh
 
-bundle exec jekyll serve
+### Before running in new codespace:
 
-Before running in new codespace:
+    rvm --default use 3.1.4
+    bundle install
 
-rvm --default use 3.1.4
-bundle install
+### TODO/IDEAS:
 
-TODO/IDEAS:
+Sponser Links
 
-Fill in scedule FINISH Before any trips after duluth
+Fill in scedule before future trip
 
-Update sponser info page FINISH Before we look for new sponsers
+Update sponser info page before we look for new sponsers
 
-Add a team info page? (like list of members)? (might need to Combine FRC 2023 and scedule). We could also make the scedule part of it LOW PRIORITY
+Add a team info page?
 
 Ways to convince new members to join? (videos, a list of reasons to join?) BEFORE 2024-2025 info meeting.
 
-Sponser Links
+Better image page (less gaps)
+
+Update and sort image page
