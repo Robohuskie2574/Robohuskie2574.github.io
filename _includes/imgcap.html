@@ -1,8 +1,12 @@
 <div style="display:flex;align-items:center">
-    <div style="margin:.25em">
-        <img style="margin: 0px;" loading="lazy" src="{{site.baseurl}}{{include.image}}">
+    {% if include.maxwidth %}
+    <div style="margin:.25em;width:min({{include.maxwidth}},100%)">
+    {% else %}
+    <div style="margin:.25em;width:100%">
+    {% endif %}
+        <img style="margin: 0px;width: 100%;" loading="lazy" src="{{site.baseurl}}{{include.image}}">
         {% if include.text %}
-        <p style="margin-top: .5em; text-align: center">{{include.text}}</p>
+        <p style="margin-top: .5em; text-align: center;{{include.textstyle}}">{{include.text}}</p>
         {% endif %}
     </div>
 </div>
