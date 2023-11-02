@@ -14,3 +14,4 @@ Your logo should:
   <li>Should look good when small, such as a logo on the robot</li>
   <li>If your logo goes on the website, it should not be taller than it is wide. A wide logo is preferred.</li>
 </ul>
+If you don't send a logo, we will take one off your website.
