@@ -7,7 +7,7 @@ image: logo.svg
 
 # Intrested in Joining?
 
-ONLY SAVHS students may join. If you are in the middle school, wait. If you dont go to this school, Why did you think you could join? 
+ONLY SAVHS students may join. If you are in the middle school, wait until you get to high school. If you don't go to this school, Why did you think you could join? 
 
 ## Meeting Times
 
