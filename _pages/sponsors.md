@@ -16,11 +16,11 @@ If you are interested in sponsoring, there is more information [here.]({{site.ba
 <div style="display:flex;justify-content:center">
 <div style="display:grid;grid-template-columns:repeat(auto-fill, minmax(20em, 1fr))">
 
-{% include imgcap.html image="/images/logos/BLVD_Logo_Main.png" text="BLVD Autoworks" textstyle="font-size: 2em" maxwidth="30em" %}
+{% include OurImageWithCaption.html image="/images/logos/BLVD_Logo_Main.png" text="BLVD Autoworks" textstyle="font-size: 2em" maxwidth="30em" %}
 
-{% include imgcap.html image="/images/logos/mindwalk-logo-600.png" text="Mindwalk Consulting" textstyle="font-size: 2em" maxwidth="30em" %}
+{% include OurImageWithCaption.html image="/images/logos/mindwalk-logo-600.png" text="Mindwalk Consulting" textstyle="font-size: 2em" maxwidth="30em" %}
 
-{% include imgcap.html image="/images/logos/Hilltop.png" text="Hilltop Camper and RV" textstyle="font-size: 2em" maxwidth="30em" %}
+{% include OurImageWithCaption.html image="/images/logos/Hilltop.png" text="Hilltop Camper and RV" textstyle="font-size: 2em" maxwidth="30em" %}
 
 </div>
 </div>
@@ -30,16 +30,16 @@ If you are interested in sponsoring, there is more information [here.]({{site.ba
 
 <div style="display:grid;grid-template-columns:repeat(auto-fill, minmax(20em, 1fr))">
 
-{% include imgcap.html image="/images/logos/VillageOrtho.png" text="Village Orthodontics" textstyle="font-size: 2em" maxwidth="30em" %}
+{% include OurImageWithCaption.html image="/images/logos/VillageOrtho.png" text="Village Orthodontics" textstyle="font-size: 2em" maxwidth="30em" %}
 
-{% include imgcap.html image="/images/logos/Ryobi.svg" text="Ryobi" textstyle="font-size: 2em" maxwidth="30em" %}
+{% include OurImageWithCaption.html image="/images/logos/Ryobi.svg" text="Ryobi" textstyle="font-size: 2em" maxwidth="30em" %}
 
 </div>
 
 ## Bronze Sponsors
 <div style="display:grid;grid-template-columns:repeat(auto-fill, minmax(20em, 1fr))">
 
-{% include imgcap.html image="/images/logos/JerseyMikes.svg" text="Jersey Mike's" textstyle="font-size: 2em" maxwidth="30em" %}
+{% include OurImageWithCaption.html image="/images/logos/JerseyMikes.svg" text="Jersey Mike's" textstyle="font-size: 2em" maxwidth="30em" %}
 
 </div>
 
