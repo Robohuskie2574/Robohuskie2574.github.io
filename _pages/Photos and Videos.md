@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /PhotosVideos/
-title:  Photos And Videos
+title:  Photos
 ---
 
 [Link To Archive]({{site.baseurl}}/PhotosVideos-a)

@@ -4,7 +4,7 @@ title: FRC 2023
 permalink: /2023/
 image: 2023/comp2.jpg
 ---
-The 2023 season is over, however there are still off season competetions.
+The 2023 season is over, however there are still off season competitions.
 
 # RoboHuskie Competitions
 
@@ -14,7 +14,7 @@ Here is a list of Competitions we are going too:
 
 ## Main Competition
 
-We went to Deluth.
+We went to Duluth.
 
 # This year's game
 
