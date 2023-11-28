@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Team Info
+title: Team Members
 permalink: /Team/
-image: logo.svg
 ---
 
 # Intrested in Joining?

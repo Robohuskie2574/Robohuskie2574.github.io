@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FRC 2023
+title: Competitions
 permalink: /2023/
 image: 2023/comp2.jpg
 ---
@@ -21,8 +21,3 @@ We went to Duluth.
 
 The robot has to place miniature traffic cones and inflatable cubes in various places in the arena.
 For more information, go to the [FIRST's info page](https://www.firstinspires.org/robotics/frc/game-and-season)
-
-The manual is at:
-[Game Manual](https://firstfrc.blob.core.windows.net/frc2023/Manual/2023FRCGameManual.pdf)
-or below.
-<iframe src="https://firstfrc.blob.core.windows.net/frc2023/Manual/2023FRCGameManual.pdf" style="width:100%;height:75vh">
