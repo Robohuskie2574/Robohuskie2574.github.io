@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Team Members
-permalink: /Team/
+title: Why Join?
+permalink: /JoinTeam/
 ---
 
 # Intrested in Joining?
@@ -20,7 +20,7 @@ We also have competitions
 * Lettering Hours
 * Fun Competitions (Also an excuse to skip school)
 * Small Team
-* We DON'T Just need programmers. We need people to design and build the robot, find sponsors, take and post photos, and find new team members.
+* We DON'T Just need programmers. We need people to design and build the robot, find sponsors, take and post photos, find new team members, and more.
 
 ## Things we do
 * Design the robot
@@ -28,5 +28,5 @@ We also have competitions
 * Program the robot
 * Media team (takes photos, posts them online, website)
 * Find Sponsors
-* FInd New Members
+* Find New Members
 * And More
