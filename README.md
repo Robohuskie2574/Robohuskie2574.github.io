@@ -17,6 +17,10 @@ or
     bundle install
 
 ### TODO/IDEAS:
-Add a team info page?
+Update Sponsors list
 
-Ways to convince new members to join? (videos, a list of reasons to join?) BEFORE 2024-2025 info meeting.
+2024 Schedule
+
+Add a team info page (list members?)
+
+Ways to convince new members to join? (videos, a list of reasons to join?)
