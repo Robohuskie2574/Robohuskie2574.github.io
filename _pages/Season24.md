@@ -7,19 +7,12 @@ The 2024 season, CRESCENDO has been announced. We are working on building our ro
 
 # Game Overview
 
-![](https://firstfrc.blob.core.windows.net/frc2024/Manual/Sections/2024GameManual-04GameOverview.pdf)
+<iframe src="https://firstfrc.blob.core.windows.net/frc2024/Manual/Sections/2024GameManual-04GameOverview.pdf" style="width:100%;aspect-ratio:1"></iframe>
 
 # Events
 
-## Blue Twilight Week Zero Invitational
+## FRC 10,000 Lakes
+Location:
+(1925 University Ave SE Minneapolis, MN USA)[http://maps.google.com/?q=1925%20University%20Ave%20SE,%20Minneapolis,%20MN,%20USA]
 
-February 17 and 18, 2024
-Eagan High School
-![Details](https://www.thebluealliance.com/event/2024mnbt)
-
-
-## Northern Lights Regional 2024
-
-February 28 to March 2
-DECC Arena/Edmund Fitzgerald Exhibit Hall
-![Details](https://www.thebluealliance.com/event/2024mndu2)
+[Event Info](https://frc-events.firstinspires.org/2024/MNMI)

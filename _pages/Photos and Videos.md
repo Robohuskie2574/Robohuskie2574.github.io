@@ -6,7 +6,6 @@ title:  Photos
 
 [Link To Archive]({{site.baseurl}}/PhotosVideos-a)
 
-
 # 2022-2023
 <div style="display:grid;grid-template-columns:repeat(3, 1fr);">
 {% include OurImageWithCaption.html image="/images/2023/comp1.jpg" text="Competition Photo" %}
