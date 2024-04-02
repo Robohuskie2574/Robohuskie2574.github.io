@@ -13,6 +13,8 @@ The 2024 season, CRESCENDO has been announced. We are working on building our ro
 
 ## FRC 10,000 Lakes
 Location:
-(1925 University Ave SE Minneapolis, MN USA)[http://maps.google.com/?q=1925%20University%20Ave%20SE,%20Minneapolis,%20MN,%20USA]
+[1925 University Ave SE Minneapolis, MN USA](http://maps.google.com/?q=1925%20University%20Ave%20SE,%20Minneapolis,%20MN,%20USA)
+
+Thursday, Friday, and Saturday.
 
 [Event Info](https://frc-events.firstinspires.org/2024/MNMI)
