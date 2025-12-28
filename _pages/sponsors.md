@@ -14,7 +14,7 @@ If you are interested in sponsoring, there is more information [here.]({{site.ba
 
 ## Gold Sponsors
 {% include OurWidthGridStart.html width="20em" %}
-[{% include OurImageWithCaption.html image="/images/logos/BLVD_Logo_Main.png" text="BLVD Autoworks" textstyle="font-size: 2em" maxwidth="30em" %}
+{% include OurImageWithCaption.html image="/images/logos/BLVD_Logo_Main.png" text="BLVD Autoworks" textstyle="font-size: 2em" maxwidth="30em" %}
 
 {% include OurImageWithCaption.html image="/images/logos/mindwalk-logo-600.png" text="Mindwalk Consulting" textstyle="font-size: 2em" maxwidth="30em" %}
 
