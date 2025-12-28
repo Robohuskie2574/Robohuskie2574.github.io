@@ -4,9 +4,15 @@
     {% else %}
     <div style="margin:.25em;width:100%">
     {% endif %}
+    {% if include.link %}
+    <a href="{{include.link}}">
+    {% endif %}
         <img style="margin: 0px;width: 100%;" loading="lazy" src="{{site.baseurl}}{{include.image}}">
         {% if include.text %}
         <p style="margin-top: .5em; text-align: center;{{include.textstyle}}">{{include.text}}</p>
         {% endif %}
+    {% if include.link %}
+    </a>
+    {% endif %}
     </div>
 </div>
