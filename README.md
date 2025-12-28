@@ -17,10 +17,4 @@ or
     bundle install
 
 ### TODO/IDEAS:
-Update Sponsors list
-
-2024 Schedule
-
-Add a team info page (list members?)
-
-Ways to convince new members to join? (videos, a list of reasons to join?)
+Fix/Update for 2025/2026
