@@ -10,7 +10,7 @@ If you are interested in sponsoring, there is more information [here.]({{site.ba
 
 ## Diamond Sponsor: Medtronic
 
-[{% include OurImageWithCaption.html image="/images/logos/Medtronic_logo.svg" %}](https://www.medtronic.com/en-us/index.html)
+{% include OurImageWithCaption.html image="/images/logos/Medtronic_logo.svg" %}
 
 ## Gold Sponsors
 {% include OurWidthGridStart.html width="20em" %}
