@@ -10,11 +10,11 @@ If you are interested in sponsoring, there is more information [here.]({{site.ba
 
 ## Diamond Sponsor: Medtronic
 
-{% include OurImageWithCaption.html image="/images/logos/Medtronic_logo.svg" %}
+[{% include OurImageWithCaption.html image="/images/logos/Medtronic_logo.svg" %}](https://www.medtronic.com/en-us/index.html)
 
 ## Gold Sponsors
 {% include OurWidthGridStart.html width="20em" %}
-{% include OurImageWithCaption.html image="/images/logos/BLVD_Logo_Main.png" text="BLVD Autoworks" textstyle="font-size: 2em" maxwidth="30em" %}
+[{% include OurImageWithCaption.html image="/images/logos/BLVD_Logo_Main.png" text="BLVD Autoworks" textstyle="font-size: 2em" maxwidth="30em" %}
 
 {% include OurImageWithCaption.html image="/images/logos/mindwalk-logo-600.png" text="Mindwalk Consulting" textstyle="font-size: 2em" maxwidth="30em" %}
 
