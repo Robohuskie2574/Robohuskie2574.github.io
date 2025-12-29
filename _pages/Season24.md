@@ -2,6 +2,7 @@
 layout: page
 title: 2024 Season
 permalink: /2024/
+hide: TRUE
 ---
 The 2024 season, CRESCENDO has been announced. We are working on building our robot.
 

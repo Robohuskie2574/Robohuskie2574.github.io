@@ -6,6 +6,18 @@ hide: TRUE
 ---
 
 # Archived Photos and Videos
+
+# 2022-2023
+<div style="display:grid;grid-template-columns:repeat(3, 1fr);">
+{% include OurImageWithCaption.html image="/images/2023/comp1.jpg" text="Competition Photo" %}
+{% include OurImageWithCaption.html image="/images/2023/comp3.jpg" text="Competition Photo" %}
+{% include OurImageWithCaption.html image="/images/2023/robot.jpg" text="Robot at competition" %}
+{% include OurImageWithCaption.html image="/images/2023/robot1.jpg" text="Robot at competition" %}
+{% include OurImageWithCaption.html image="/images/2023/comp2.jpg" text="Competition Photo" %}
+{% include OurImageWithCaption.html image="/images/2023/robot2.jpg" text="Robot at competition" %}
+{% include OurImageWithCaption.html image="/images/2023/1.jpg" text="Secret Plans" %}
+</div>
+
 ## 2020
 <!--OldSite Home Page(Below 2020 Season Events Text) -->
 <div style="display:grid;grid-gap:10px;grid-template-columns:repeat(3, 1fr)">
