@@ -7,7 +7,7 @@ hide: TRUE
 
 # Archived Photos and Videos
 
-# 2022-2023
+## 2022-2023
 <div style="display:grid;grid-template-columns:repeat(3, 1fr);">
 {% include OurImageWithCaption.html image="/images/2023/comp1.jpg" text="Competition Photo" %}
 {% include OurImageWithCaption.html image="/images/2023/comp3.jpg" text="Competition Photo" %}

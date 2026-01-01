@@ -3,6 +3,7 @@ layout: post
 title:  "2023 Season Starts"
 date:   2023-1-7 16:00:00 -0600
 image:  chargeuplogo.png
+author: William
 tags:   news
 ---
 The 2023 season has been announced. The theme is Charged Up.

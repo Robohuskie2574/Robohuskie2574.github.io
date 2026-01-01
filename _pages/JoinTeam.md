@@ -4,9 +4,9 @@ title: Why Join?
 permalink: /JoinTeam/
 ---
 
-# Intrested in Joining?
+# Interested in Joining?
 
-ONLY SAVHS students may join. If you are in the middle school, wait until you get to high school. If you don't go to this school, Why did you think you could join?
+Only SAVHS students may join. If you are in the middle school, wait until you get to high school.
 
 ## Schedule
 

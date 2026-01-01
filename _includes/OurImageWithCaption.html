@@ -5,9 +5,9 @@
     <div style="margin:.25em;width:100%">
     {% endif %}
     {% if include.link %}
-    <a href="{{include.link}}">
+    <a href="{{include.link}}" {% if include.newtab %}target="_blank"{% endif %}>
     {% endif %}
-        <img style="margin: 0px;width: 100%;" loading="lazy" src="{{site.baseurl}}{{include.image}}">
+        <img style="margin: 0px;width: 100%;" {% if include.alttext %}alt="{{include.alttext}}"{% endif %} loading="lazy" src="{{site.baseurl}}{{include.image}}">
         {% if include.text %}
         <p style="margin-top: .5em; text-align: center;{{include.textstyle}}">{{include.text}}</p>
         {% endif %}

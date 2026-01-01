@@ -17,4 +17,4 @@ or
     bundle install
 
 ### TODO/IDEAS:
-Fix/Update for 2025/2026
+Fix/Update for 2026
