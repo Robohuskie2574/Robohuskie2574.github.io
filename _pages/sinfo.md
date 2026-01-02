@@ -5,7 +5,7 @@ title: Sponsor info and Guidelines
 hide: TRUE
 ---
 ## Sponsor info and Guidelines
-Thanks for being interested in sponsoring us! Sponsors can get benefits such as a place on our website, your company name on out t-shirts, and your logo on our robot. You can [contact us.]({{site.baseurl}}/Contact/) VIA email.
+Thanks for being interested in sponsoring us! Sponsors can get benefits such as a place on our website, your company name on out t-shirts, and your logo on our robot. You can [contact us]({{site.baseurl}}/Contact/) VIA email.
 
 ## Picking the best logo to send
 The website and logo can use the same logo or different logos.

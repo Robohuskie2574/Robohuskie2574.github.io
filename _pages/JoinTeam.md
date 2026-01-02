@@ -15,12 +15,12 @@ We also have competitions
 
 ## Robo Benefits
 * We have snacks™. 
-* Flexible Schedule. You can come for the entire meeting every meeting, or a few times a month.
-* No Experience needed
-* Lettering Hours
-* Fun Competitions (Also an excuse to skip school)
-* Small Team
-* We DON'T Just need programmers. We need people to design and build the robot, find sponsors, take and post photos, find new team members, and more.
+* We have a flexible schedule, meaning you can come for the entire meeting every meeting, or only a few times a month.
+* No experience needed.
+* You can earn lettering hours.
+* We have fun competitions (Also an excuse to skip school).
+* We are a small team.
+* A lot of skills are useful. We need people to design and build the robot, find sponsors, take and post photos, find new team members, and more.
 
 ## Things we do
 * Design the robot
