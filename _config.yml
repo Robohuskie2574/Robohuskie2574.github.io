@@ -22,6 +22,22 @@ defaults:
     values:
       permalink: /:basename:output_ext
 
+
+  - scope:
+      path: 'images/oap-left'
+    values:
+     oap-left: true
+
+  - scope:
+      path: 'images/ohp-ayt'
+    values:
+     ohp-ayt: true
+
+  - scope:
+      path: 'images/ohp-byt'
+    values:
+     ohp-byt: true
+
 include:
   - _pages
 

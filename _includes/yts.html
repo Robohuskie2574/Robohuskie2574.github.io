@@ -1,0 +1,4 @@
+{% assign ids = include.ids | split: "," %}
+{% for cid in ids %}
+{% include yt.html id=cid %}
+{% endfor %}
