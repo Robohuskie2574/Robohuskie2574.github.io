@@ -26,6 +26,8 @@ Out sponsor list is not finalized yet. Companies that become sponsors will be ad
 
 {% include OurImageWithCaption.html image="/images/logos/BigIslandPoke.png" alttext="Big Island Poke" link="https://bigislandpoke.com/" maxwidth="30em" newtab=true %}
 
+{% include OurImageWithCaption.html image="/images/logos/MWSLogo3.png" alttext="Midwest Workforce Strategies" link="https://www.midwestworkforce.com/" maxwidth="30em" newtab=true %}
+
 {% include OurGridEnd.html %}
 
 ## Bronze
